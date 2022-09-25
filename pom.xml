@@ -9,6 +9,7 @@
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
     <version>1.0</version>
+	<foo.version>1.0</foo.version>
   </parent>
   <name>petclinic</name>
 
